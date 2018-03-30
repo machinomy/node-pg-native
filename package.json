@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/brianc/node-pg-native",
   "dependencies": {
-    "libpq": "^1.7.0",
+    "libpq": "https://github.com/machinomy/node-libpq/archive/v1.8.70001.tar.gz",
     "pg-types": "^1.12.1",
     "readable-stream": "1.0.31"
   },
